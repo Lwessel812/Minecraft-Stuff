@@ -1,5 +1,5 @@
 @echo off
-title minecraft-server-1.8.3
+title server
 color 0A
 prompt [server]:
 cls
@@ -18,6 +18,7 @@ goto :choice
 
 :restart
 cls
+call Backup.bat
 echo server will restart
 TIMEOUT /T 5
 cls
@@ -26,6 +27,7 @@ goto :start
 :stop
 
 cls
+call Backup.bat
 echo closing server
 TIMEOUT /T 5
 exit
