@@ -1,0 +1,40 @@
+Sword:
+	/give @p diamond_sword 1 0 {Unbreakable:1,Display:{Name:"CEILING_SPY's Sword",Lore:["CEILING_SPY's Sword"]},Enchantments:[{id:bane_of_arthropods,lvl:21474836472147483647},{id:fire_aspect,lvl:21474836472147483647},{id:knockback,lvl:21474836472147483647},{id:looting,lvl:21474836471000},{id:mending,lvl:21474836472147483647},{id:unbreaking,lvl:21474836472147483647},{id:sweeping,lvl:21474836472147483647},{id:smite,lvl:21474836472147483647},{id:sharpness,lvl:21474836472147483647}]}
+
+Pickaxe:
+	/give @p diamond_pickaxe 1 0 {Display:{Name:"CEILING_SPY's Pickaxe",Lore:["CEILING_SPY's Pickaxe"]},Enchantments:[{id:efficiency,lvl:21474836472147483647},{id:fortune,lvl:1000},{id:mending,lvl:21474836472147483647},{id:unbreaking,lvl:21474836472147483647}]}
+	/give @p diamond_pickaxe 1 0 {Display:{Name:"CEILING_SPY's Silk Pickaxe",Lore:["CEILING_SPY's Silk Pickaxe"]},Enchantments:[{id:efficiency,lvl:21474836472147483647},{id:fortune,lvl:1000},{id:mending,lvl:21474836472147483647},{id:unbreaking,lvl:21474836472147483647},{id:silk_touch,lvl:21474836472147483647}]}
+
+Shovel:
+	/give @p diamond_shovel 1 0 {Display:{Name:"CEILING_SPY's Shovel",Lore:["CEILING_SPY's Shovel"]},Enchantments:[{id:efficiency,lvl:21474836472147483647},{id:fortune,lvl:1000},{id:mending,lvl:21474836472147483647},{id:unbreaking,lvl:21474836472147483647}]}
+	/give @p diamond_shovel 1 0 {Display:{Name:"CEILING_SPY's Silk Shovel",Lore:["CEILING_SPY's Silk Shovel"]},Enchantments:[{id:efficiency,lvl:21474836472147483647},{id:fortune,lvl:1000},{id:mending,lvl:21474836472147483647},{id:unbreaking,lvl:21474836472147483647},{id:silk_touch,lvl:21474836472147483647}]}
+
+Axe:
+	/give @p diamond_axe 1 0 {Display:{Name:"CEILING_SPY's Axe",Lore:["CEILING_SPY's Axe"]},Enchantments:[{id:bane_of_arthropods,lvl:2147483647},{id:efficiency,lvl:2147483647},{id:fortune,lvl:1000},{id:mending,lvl:2147483647},{id:sharpness,lvl:2147483647},{id:smite,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+	/give @p diamond_axe 1 0 {Display:{Name:"CEILING_SPY's Silk Axe",Lore:["CEILING_SPY's Silk Axe"]},Enchantments:[{id:bane_of_arthropods,lvl:2147483647},{id:efficiency,lvl:2147483647},{id:fortune,lvl:1000},{id:mending,lvl:2147483647},{id:sharpness,lvl:2147483647},{id:silk_touch,lvl:2147483647},{id:smite,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+Bow:
+	/give @p bow 1 0 {Display:{Name:"CEILING_SPY's Bow",Lore:["CEILING_SPY's Bow"]},Enchantments:[{id:flame,lvl:2147483647},{id:infinity,lvl:2147483647},{id:mending,lvl:2147483647},{id:power,lvl:2147483647},{id:punch,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+Crossbow:
+	/give @p crossbow 1 0 {Display:{Name:"CEILING_SPY's CrossBow",Lore:["CEILING_SPY's Crossbow"]},Enchantments:[{id:mending,lvl:2147483647},{id:multishot,lvl:2147483647},{id:piercing,lvl:2147483647},{id:quick_charge,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+Trident:
+	/give @p trident 1 0 {Display:{Name:"CEILING_SPY's Trident",Lore:["CEILING_SPY's Trident"]},Enchantments:[{id:riptide,lvl:2147483647},{id:loyalty,lvl:2147483647},{id:impaling,lvl:2147483647},{id:channeling,lvl:2147483647}]}
+
+FishingRod:
+	/give @p fishing_rod 1 0 {Display:{Name:"CEILING_SPY's Fishing Rod",Lore:["CEILING_SPY's Fishing Rod"]},Enchantments:[{id:luck_of_the_sea,lvl:1000},{id:lure,lvl:2147483647},{id:mending,lvl:2147483647},{id:unbreaking,lvl:2147483647},]}
+
+Armor:
+	Helmet:
+		/give @p diamond_helmet 1 0 {Display:{Name:"CEILING_SPY's Helmet",Lore:["CEILING_SPY's Helmet"]},Enchantments:[{id:aqua_affinity,lvl:2147483647},{id:blast_protection,lvl:2147483647},{id:fire_protection,lvl:2147483647},{id:mending,lvl:2147483647},{id:projectile_protection,lvl:2147483647},{id:protection,lvl:2147483647},{id:respiration,lvl:2147483647},{id:thorns,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+	Chestplate:
+		/give @p diamond_chestplate 1 0 {Display:{Name:"CEILING_SPY's Chestplate",Lore:["CEILING_SPY's Chestplate"]},Enchantments:[{id:blast_protection,lvl:2147483647},{id:fire_protection,lvl:2147483647},{id:mending,lvl:2147483647},{id:projectile_protection,lvl:2147483647},{id:protection,lvl:2147483647},{id:thorns,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+	Leggings:
+		/give @p diamond_leggings 1 0 {Display:{Name:"CEILING_SPY's Leggings",Lore:["CEILING_SPY's Leggings"]},Enchantments:[{id:blast_protection,lvl:2147483647},{id:fire_protection,lvl:2147483647},{id:mending,lvl:2147483647},{id:projectile_protection,lvl:2147483647},{id:protection,lvl:2147483647},{id:thorns,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+
+	Boots:
+		/give @p diamond_boots 1 0 {Display:{Name:"CEILING_SPY's Boots",Lore:["CEILING_SPY's Boots"]},Enchantments:[{id:blast_protection,lvl:2147483647},{id:depth_strider,lvl:2147483647},{id:feather_falling,lvl:2147483647},{id:fire_protection,lvl:2147483647},{id:mending,lvl:2147483647},{id:projectile_protection,lvl:2147483647},{id:protection,lvl:2147483647},{id:thorns,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
+		/give @p diamond_boots 1 0 {Display:{Name:"CEILING_SPY's Magic Boots",Lore:["CEILING_SPY's Magic Boots"]},Enchantments:[{id:blast_protection,lvl:2147483647},{id:depth_strider,lvl:2147483647},{id:feather_falling,lvl:2147483647},{id:fire_protection,lvl:2147483647},{id:frost_walker,lvl:2147483647},{id:mending,lvl:2147483647},{id:projectile_protection,lvl:2147483647},{id:protection,lvl:2147483647},{id:thorns,lvl:2147483647},{id:unbreaking,lvl:2147483647}]}
