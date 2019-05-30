@@ -3,6 +3,6 @@
     "uuid": "bf2d4882-0754-4937-9d2d-31530ac11a2b",
     "name": "CEILINGSPY",
     "level": 4,
-    "bypassesPlayerLimit": true
-  },
+    "bypassesPlayerLimit": false
+  }
 ]
