@@ -6,7 +6,7 @@ cls
 
 :start
 echo loading server...
-java -Xms5G -Xmx4G -jar server.jar nogui
+java -Xmx5G -Xms4G -jar server.jar nogui
 cls
 
 :choice
