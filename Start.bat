@@ -1,6 +1,5 @@
 @echo off
 title server
-color 0A
 prompt [server]:
 cls
 
